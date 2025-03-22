@@ -1,4 +1,4 @@
-# Simple Bank System
+# Simple Bank System ***Console App***
 ## Using functional and OOP Programming
 ### in this project i handeld saving data using ***Custom Delimited Files***
 ### There is (Users, Clients, Transfer Log, Login Register, Currencies) texr file each one of them 
